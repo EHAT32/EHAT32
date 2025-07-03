@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an ITMO University 1st Master student. I am interested in Machine Learning and Computer Vision.
+
 <!--
 **EHAT32/EHAT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
