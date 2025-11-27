@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an ITMO University 1st Master student. I am interested in Machine Learning and Computer Vision.
+I'm a second-year Master's student at ITMO University. I am interested in AI and Research.
 
 ### ⏱ Some Stats : 
 <div>
