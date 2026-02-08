@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a second-year Master's student at ITMO University. I am interested in AI and Research.
+I'm a second-year Master's student at ITMO University. I am interested in ML and Research.
 
 ### ⏱ Some Stats : 
 <div>
