@@ -12,6 +12,8 @@ I'm a second-year Master's student at ITMO University. I am interested in ML and
     <br /> -->
 </div> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=EHAT32)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **EHAT32/EHAT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
