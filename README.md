@@ -2,6 +2,8 @@
 
 I'm a second-year Master's student at ITMO University. I am interested in ML and Research.
 
+Currently I'm working on my research in RL, also studying NLP.
+
 ### ⏱ Some Stats : 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHAT32&layout=compact&theme=dark&hide=jupyter%20notebook" width="400"/>
@@ -12,7 +14,7 @@ I'm a second-year Master's student at ITMO University. I am interested in ML and
     <br /> -->
 </div> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EHAT32)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=EHAT32)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **EHAT32/EHAT32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
